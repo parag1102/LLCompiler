@@ -1,0 +1,8 @@
+	.start
+
+Non-Terminals	 = {E,E1,T,T1,F}
+Terminals	 = {+,*,-,/}
+Start 		 = {E}
+Productions	 = {}
+
+	.end
